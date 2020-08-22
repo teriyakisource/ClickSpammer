@@ -1,4 +1,3 @@
-
 import threading
 from pynput.keyboard import Listener, KeyCode, Controller
 from pynput.mouse import Controller, Button
